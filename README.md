@@ -12,7 +12,6 @@ This repository is my personal workspace for the **CyberShujaa Cloud Security Sp
 ```
 CyberShujaa-CloudSecurity-Work/
 ├── README.md      # Overview of the repository
-├── Resources/     # Learning materials, links, and references
 ├── Projects/      # Hands-on projects and assignments
 ├── Labs/          # Lab exercises and cloud security implementations
 └── Scripts/       # Automation scripts and security tools
