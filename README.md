@@ -1,7 +1,7 @@
 # CyberShujaa Cloud Security Specialist - 2025
 
 ## Overview
-This repository is my personal workspace for the **CyberShujaa Cloud Security Specialist Program** under the **Microsoft ADC Cybersecurity Skilling Program**. It contains my notes, resources, projects, and hands-on exercises throughout the 12-week training.
+This repository is my personal workspace for the **CyberShujaa Cloud Security Specialist Program** under the **Microsoft ADC Cybersecurity Skilling Program**. It contains projects, and hands-on exercises throughout the 12-week training.
 
 ## Program Details
 - **Track:** Cloud Security Specialist  
